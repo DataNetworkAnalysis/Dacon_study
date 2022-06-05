@@ -25,7 +25,8 @@ git merge 합병시킬 내용이 들어있는 브랜치명
 git push
 ```
 
-혹은 github의 해당레포에 가서 main branch로 이동 후 pull & 어쩌고 버튼 클릭
+혹은 github의 해당레포에 가서 main branch로 이동 후 상단의 [compare & pull request] 버튼 클릭 <br>
+<br>
 
 ## 커밋메세지 변경
 - [바로 이전 커밋메세지 수정](https://backlog.com/git-tutorial/kr/reference/log.html) <br>
