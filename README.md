@@ -26,6 +26,16 @@ git push
 ```
 
 혹은 github의 해당레포에 가서 main branch로 이동 후 상단의 [compare & pull request] 버튼 클릭 <br>
+[Pull requests] tab으로 이동 <br>
+[open] tab 아래 있는 pull reque 선택 <br>
+[merge pull request] 버튼 <br>
+[confirm request] 버튼 <br>
+-> 해당 브랜치 closed됨. (해당 pull request는 [closed] tab으로 이동) <br>
+<br>
+
+## 그 닫힌 브랜치 복구하는 방법
+[closed] tab 가서 해당 request가서 restore branch 클릭
+
 <br>
 
 ## 커밋메세지 변경
