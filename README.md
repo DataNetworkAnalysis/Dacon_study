@@ -21,6 +21,7 @@ git checkout 이동하고 싶은 브랜치명
 ## 브랜치 합병
 ```
 git checkout 합병시켜야하는 브랜치명
+git pull
 git merge 합병시킬 내용이 들어있는 브랜치명
 git push
 ```
